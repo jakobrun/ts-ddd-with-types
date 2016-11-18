@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "sourceMap": false,
+        "outDir": "build",
+        "strictNullChecks": true
+    },
+    "exclude": [
+        "node_modules",
+        "build"
+    ]
+}
